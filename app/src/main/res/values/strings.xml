@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FuelFind</string>
+    <string name="get_nearby_prices_string">Get Nearby Prices</string>
+</resources>
